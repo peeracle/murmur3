@@ -26,8 +26,8 @@
       'type': 'static_library',
       'standalone_static_library': 1,
       'sources': [
-        'murmur3.c',
-        'murmur3.h',
+        'MurmurHash3.cpp',
+        'MurmurHash3.h',
       ],
       'include_dirs': [
         '.',
